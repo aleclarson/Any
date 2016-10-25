@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "Any.js",
   "dependencies": {
-    "Validator": "aleclarson/Validator#1.1.0",
+    "Validator": "aleclarson/Validator#1.1.1",
     "emptyFunction": "aleclarson/emptyFunction#1.0.0"
   }
 }
