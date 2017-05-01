@@ -1,6 +1,6 @@
 {
   "name": "Any",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "Any.js",
   "dependencies": {
     "Validator": "aleclarson/Validator#1.2.0",
